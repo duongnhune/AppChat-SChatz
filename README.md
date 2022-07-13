@@ -1,5 +1,5 @@
 # Introduce
-## Đây là đồ án kết thúc học phần CN .NET
+## Đây là đồ án kết thúc học phần Công nghệ Java
 # Screenshot
 ## Màn hình Server
 ![image](https://user-images.githubusercontent.com/78092390/177379738-6209ca16-9809-44a8-8847-560047b3274d.png)
